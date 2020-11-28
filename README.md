@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Davide Restivo's Github Stats](https://github-readme-stats.vercel.app/api?username=daviderestivo)](https://github.com/daviderestivo/github-readme-stats)
+
 
 <!--
 **daviderestivo/daviderestivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
